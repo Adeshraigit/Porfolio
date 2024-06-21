@@ -1,0 +1,60 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Nextjs Music App",
+            "description": "A Music App UI using Nextjs and Tailwind CSS, Aceternity UI",
+            "isFeatured": true,
+            "image": "/projects/music.png",
+            "link" : "https://next-js-music-phi.vercel.app/"
+          },
+        {
+        "id": 1,
+        "title": "TODO APP",
+        "description": "A Todo App using ReactJs and Tailwind CSS",
+        "isFeatured": true,
+        "image": "/projects/todo.png",
+        "link" : "https://todo-reactjs-appp.netlify.app/"
+        },
+        {
+        "id": 3,
+        "title": "Bg Changer",
+        "description": "A Bg Changer using ReactJs and Tailwind CSS",
+        "isFeatured": true,
+        "image": "/projects/Bg.png",
+        "link" : "https://background-changer-reactjs.netlify.app/"
+        },
+        {
+        "id": 4,
+        "title": "Password Generator",
+        "description": "A Password Generator using ReactJs and Tailwind CSS",
+        "isFeatured": true,
+        "image": "/projects/pass.png",
+        "link" : "https://pass-generator-reactjs.netlify.app/"
+        },
+        {
+        "id": 5,
+        "title": "Github Profile Finder",
+        "description": "A Github profile finder using ReactJs and Tailwind CSS and GithubApi and Axios",
+        "isFeatured": true,
+        "image": "/projects/git.png",
+        "link" : "https://github-profile-fiinder.netlify.app/"
+        },
+        {
+        "id": 6,
+        "title": "Color Scheme Switcher",
+        "description": "A Color Scheme Switcher using HTML, CSS, JavaScript",
+        "isFeatured": true,
+        "image": "/projects/Color.png",
+        "link" : "https://color-scheme-switcher-app.netlify.app/"
+        },
+        {
+        "id": 7,
+        "title": "Coffe Shop UI",
+        "description": "A Coffe shop UI landing page using HTML, CSS, JavaScript and GSAP ",
+        "isFeatured": true,
+        "image": "/projects/coffe.png",
+        "link" : "https://the-coffee-shopp.netlify.app/"
+        }
+    ]
+  }
