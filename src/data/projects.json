@@ -9,7 +9,7 @@
             "link" : "https://next-js-music-phi.vercel.app/"
           },
         {
-        "id": 1,
+        "id": 2,
         "title": "TODO APP",
         "description": "A Todo App using ReactJs and Tailwind CSS",
         "isFeatured": true,
