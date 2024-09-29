@@ -8,7 +8,7 @@ function Hero() {
         <div className= 'm-1 mt-8 lg:col-span-7 ' >
             <h1 className='
             font-bold text-3xl md:text-5xl leading-tight text-zinc-50 max-w-3xl
-            ' >Trust me, I'm a 
+            ' >Trust, me I&apos;m a 
             <span className='text-cyan-500' > Web Developer</span>
             </h1>
             <p className='mt-4 text-md text-zinc-400' >
